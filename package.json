@@ -1,0 +1,19 @@
+{
+  "name": "codeceptjs-graphql-demo",
+  "version": "1.0.0",
+  "description": "Demo project to demostrate the codeceptjs with graphql tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codeceptjs",
+    "graphql"
+  ],
+  "author": "PeterNgTr",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "codeceptjs": "^2.5.0"
+  }
+}
